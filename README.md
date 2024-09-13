@@ -306,5 +306,5 @@ Basados en los gráficos y análisis presentados, podemos extraer las siguientes
 ## Links relevantes
  * [Exploratorio Google Colab](https://github.com/osirisberbesia/ETL-SuperStore/blob/main/SuperStore.ipynb)
  * [Dashboard](https://public.tableau.com/app/profile/osiris.berbesia/viz/SuperStoreDashboard_17261044309660/Dashboard1)
- * Presentación
- * Video
+ * [Presentación](https://docs.google.com/presentation/d/11Bec0CpAOqOcMp0Mjcu4yTnqXGRyELWGjDcMtLeZnzM/edit?usp=sharing)
+ * [Video](https://www.loom.com/share/7676f2a707324dc5bccfb3e89d8061fb)
